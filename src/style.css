@@ -3,3 +3,35 @@
 body{
     background: white;
 }
+.ejemplo{
+    font-size: 3rem;
+    color: red;
+    background-color: black;
+}
+.ejemplo:hover{
+    border: 3px solid white;
+    border-radius: 45%;
+}
+.escondido{
+    display: none;
+}
+
+.aLaVista{
+    display: block;
+}
+
+
+.oscuro{
+    background-color: black;
+    color: white;
+}
+
+.claro{
+    background-color: white;
+    color: black
+}
+
+.text-black{
+    color:black
+
+}
